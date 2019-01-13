@@ -1,4 +1,4 @@
-PWD /home/sole/mcgill/w2018/narration/courttexte-tex
+PWD /home/sole/ecriture/nouvellesandScraps/courttexte-tex
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
 INPUT bloblb.tex
@@ -62,11 +62,9 @@ INPUT /usr/share/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 INPUT /usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-INPUT /usr/share/texmf-dist/tex/latex/beamer/translator/translator.sty
-INPUT /usr/share/texmf-dist/tex/latex/beamer/translator/translator.sty
-INPUT /usr/share/texmf-dist/tex/latex/beamer/translator/translator.sty
-INPUT /usr/share/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex
-INPUT /usr/share/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex
+INPUT /usr/share/texmf-dist/tex/latex/translator/translator.sty
+INPUT /usr/share/texmf-dist/tex/latex/translator/translator.sty
+INPUT /usr/share/texmf-dist/tex/latex/translator/translator.sty
 INPUT /usr/share/texmf-dist/tex/latex/paracol/paracol.sty
 INPUT /usr/share/texmf-dist/tex/latex/paracol/paracol.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
@@ -146,8 +144,8 @@ INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texmf-dist/tex/latex/base/ts1enc.dfu
 INPUT /usr/share/texmf-dist/tex/latex/base/ts1enc.dfu
-INPUT /usr/share/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-dictionary/translator-basic-dictionary-English.dict
-INPUT /usr/share/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-dictionary/translator-basic-dictionary-English.dict
+INPUT /usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT /usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 INPUT /usr/share/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 INPUT /usr/share/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -168,6 +166,7 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
@@ -178,8 +177,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmti8.tfm
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT bloblb.aux
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
@@ -187,4 +184,3 @@ INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
-INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb
